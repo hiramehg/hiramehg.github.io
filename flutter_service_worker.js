@@ -3,9 +3,20 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d7903d0b0e9846968cce40fb5bcc6f9f",
+  "assets/AssetManifest.json": "408aa054d64effe97c4d0ab79b0d6d22",
 "assets/assets/c++.png": "2c1327de6df45d414de5a6e8a3495123",
 "assets/assets/dart.png": "c979b430b2da155059ebc0a22b0a26ac",
+"assets/assets/files/GameMain.rar": "7fc07c89ccc25148faeed1cd317c0415",
+"assets/assets/files/hangman.cpp": "0af8a7e2b2a27dcec8121788c56dfae8",
+"assets/assets/files/How_others_see_you.pdf": "4a030fc5977f44760d209e9682e3c8fe",
+"assets/assets/files/Lab_6_Newtons_Second_Law_The_Atwood_Machine.pdf": "cc0374b682af9511cefa8c6a667bf16f",
+"assets/assets/files/Modern_Art_Analysis.pdf": "4fdc26d789595585f05ffd4115a68271",
+"assets/assets/files/Persuasive_Speech.pdf": "138ca8372597fff73d19d7466e2547cc",
+"assets/assets/files/Python_For_Robotics.pdf": "a44105821bc6a2c32dbc3f1468f1475a",
+"assets/assets/files/Response_Paper.pdf": "bb5e09ddf5bc9b1b8b226eabec2b67ed",
+"assets/assets/files/Resume.docx.pdf": "d82b120f5ea38b6908978b739b1a8d9d",
+"assets/assets/files/Screenshots.zip": "f0b3f5d265cc9eeb6ebc4978e74350b0",
+"assets/assets/files/Software_Engineering.pdf": "ad79abfb048bd38b405b90af47cd9123",
 "assets/assets/golang.png": "727a3c30b5f34931eadb8957faff6474",
 "assets/assets/me.JPG": "5f06c0b1d5c2f42da127c5e77523646f",
 "assets/assets/python.png": "9ae7d0c2a37c4626d2ea58f615906814",
@@ -27,8 +38,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "5f01ac644188fdad80b3b1da709ace08",
-"/": "5f01ac644188fdad80b3b1da709ace08",
+"index.html": "b36daa126d568366fa63114651c47982",
+"/": "b36daa126d568366fa63114651c47982",
 "main.dart.js": "6057d815d481a119b779b3c5e9bbf065",
 "manifest.json": "ba1190b295ca47a3c63ea649483771ba",
 "version.json": "711679ff19b309634bd50dfb162108cb"
